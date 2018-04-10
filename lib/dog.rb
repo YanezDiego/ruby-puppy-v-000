@@ -20,6 +20,7 @@ class Dog
         binding.pry
         puts name
       end
+      end
 
 
 
